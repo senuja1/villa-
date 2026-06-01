@@ -1,16 +1,104 @@
-# React + Vite
+# Villa Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
+![Responsive](https://img.shields.io/badge/Design-Responsive-orange)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This is a modern and responsive villa website designed to showcase a luxury villa, its facilities, gallery, services, and contact details. The website focuses on providing a clean user experience with attractive visuals and smooth navigation.
 
-## React Compiler
+It is suitable for villa rentals, holiday stays, hotel booking pages, real estate presentations, or tourism-related websites.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Modern landing page design
+* Responsive layout for mobile, tablet, and desktop
+* Villa information section
+* Image gallery
+* Facilities and services section
+* Contact section
+* Clean navigation bar
+* User-friendly interface
+* Professional tourism-style design
+
+---
+
+## Technologies Used
+
+| Technology | Purpose            |
+| ---------- | ------------------ |
+| HTML5      | Page structure     |
+| CSS3       | Styling and layout |
+| JavaScript | Interactivity      |
+| GitHub     | Version control    |
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/senuja1/villa-.git
+```
+
+Go to the project folder:
+
+```bash
+cd villa-
+```
+
+Open the project:
+
+```bash
+index.html
+```
+
+Or open it using Live Server in VS Code.
+
+---
+
+## Project Structure
+
+```text
+villa-/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+```
+
+---
+
+## Future Improvements
+
+* Add online booking system
+* Add customer login
+* Add admin dashboard
+* Add room availability checking
+* Add payment gateway
+* Add backend and database support
+* Add Google Maps location
+
+---
+
+## Author
+
+**Senuja Ekanayaka**
+Software Engineering Student
+NSBM Green University
+
+GitHub: https://github.com/senuja1
+
+---
+
+## License
+
+This project is created for educational and portfolio purposes.
+
+© 2026 Senuja Ekanayaka. All Rights Reserved.
